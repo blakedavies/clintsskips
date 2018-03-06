@@ -75,10 +75,7 @@
 	#home div.parallax-window {
 		position:relative;
 		height:calc(55vh + 75px);
-		background:transparent;
-	}
-	body.nojs #home div.parallax-window {
-		background-image:url("../img/clints_skips_home.JPG");
+		background-image:url("../img/clints_skips_home.jpg");
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
 		-o-background-size:cover;
@@ -387,9 +384,6 @@
 	#skip-bin-hire div.parallax-window {
 		position:relative;
 		height:40vh;
-		background:transparent;
-	}
-	body.nojs #skip-bin-hire div.parallax-window {
 		background-image:url("../img/clints_skips_skip_bin_hire.JPG");
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
@@ -601,9 +595,6 @@
 	#faqs div.parallax-window {
 		position:relative;
 		height:40vh;
-		background:transparent;
-	}
-	body.nojs #faqs div.parallax-window {
 		background-image:url("../img/clints_skips_faqs.JPG");
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
@@ -764,9 +755,6 @@
 	#testimonials div.parallax-window {
 		position:relative;
 		height:40vh;
-		background:transparent;
-	}
-	body.nojs #testimonials div.parallax-window {
 		background-image:url("../img/clints_skips_testimonials.JPG");
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
@@ -888,9 +876,6 @@
 	#contact-us div.parallax-window {
 		position:relative;
 		height:40vh;
-		background:transparent;
-	}
-	body.nojs #contact-us div.parallax-window {
 		background-image:url("../img/clints_skips_contact_us.jpg");
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
