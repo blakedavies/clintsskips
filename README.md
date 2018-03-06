@@ -1,2 +1,0 @@
-# clintsskips
-Clints Skips
