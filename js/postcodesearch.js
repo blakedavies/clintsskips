@@ -1,11 +1,1 @@
-function postcodesearch() {
-    var postcode = document.getElementById("postcode-input").value;
-    var result;
-
-    if (postcode === "4110" || postcode === "4510") {
-        result = "Yes! Clint's Skips currently services this suburb."; 
-    } else {
-        result = "Unfortunately we do not currently service this suburb.";
-    }
-    document.getElementById("postcode-result").innerHTML = result;
-}
+function postcodesearch(){var postcode=document.getElementById("postcode-input").value;var result;if(postcode==="4113"||postcode==="4122"||postcode==="4123"||postcode==="4156"||postcode==="4157"||postcode==="4164"||postcode==="4163"||postcode==="4161"||postcode==="4160"||postcode==="4159"||postcode==="4157"||postcode==="4158"||postcode==="4155"||postcode==="4127"||postcode==="4123"||postcode==="4119"||postcode==="4117"||postcode==="4112"||postcode==="4508"||postcode==="4504"||postcode==="4503"||postcode==="4020"||postcode==="4019"||postcode==="4509"||postcode==="4022"||postcode==="4021"||postcode==="4502"||postcode==="4017"||postcode==="4036"||postcode==="4500"||postcode==="4501"||postcode==="4037"||postcode==="4520"||postcode==="4055"||postcode==="4014"||postcode==="4035"||postcode==="4034"||postcode==="4054"||postcode==="4053"||postcode==="4031"||postcode==="4032"||postcode==="4012"||postcode==="4008"||postcode==="4009"||postcode==="4007"||postcode==="4003"||postcode==="4051"||postcode==="4061"||postcode==="4006"||postcode==="4059"||postcode==="4064"||postcode==="4000"||postcode==="4065"||postcode==="4066"||postcode==="4069"||postcode==="4068"||postcode==="4005"||postcode==="4067"||postcode==="4102"||postcode==="4169"||postcode==="4101"||postcode==="4170"||postcode==="4171"||postcode==="4172"||postcode==="4174"||postcode==="4173"||postcode==="4178"||postcode==="4179"||postcode==="4154"||postcode==="4153"||postcode==="4152"||postcode==="4151"||postcode==="4120"||postcode==="4103"||postcode==="4104"||postcode==="4105"||postcode==="4106"||postcode==="4075"||postcode==="4073"||postcode==="4074"||postcode==="4076"||postcode==="4077"||postcode==="4078"||postcode==="4110"||postcode==="4108"||postcode==="4107"||postcode==="4111"||postcode==="4109"){result="Yes! Clint's Skips currently services this suburb.";} else{result="Unfortunately we do not currently service this suburb.";} document.getElementById("postcode-result").innerHTML=result;}
