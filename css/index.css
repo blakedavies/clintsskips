@@ -272,6 +272,18 @@
 		-ms-transform:translate(-50%, 50%);
 		transform:translate(-50%, 50%);
 	}
+	#home div.parallax-window div.box img {
+		display:none;
+		width:auto;
+		height:20vh;
+		background-color:rgb(255,255,255);
+		-webkit-border-radius:50%;
+		-moz-border-radius:50%;
+		-o-border-radius:50%;
+		-ms-border-radius:50%;
+		border-radius:50%;
+		margin-bottom:10px;
+	}
 	#home div.parallax-window div.box div.wrapper {
 		padding:10px;
 		display:inline-block;
@@ -1178,8 +1190,10 @@
 		margin-bottom:0;
 	}
 /* MEDIA QUERIES */
-	@media screen and (min-aspect-ratio: 7/6) {
-
+	@media screen and (min-height:450px) {
+		#home div.parallax-window div.box img {
+			display:inline-block;
+		}
 	}
 	@media screen and (orientation:landscape) and (max-height:425px) {
 		#home div.parallax-window header div.container div.hidden-container nav a {
