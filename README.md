@@ -1,2 +1,2 @@
-# clintsskips
-Clints Skips
+# clintsskips.com
+clintsskips.com
