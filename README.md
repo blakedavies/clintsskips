@@ -1,2 +1,2 @@
-# clintsskips.com
-clintsskips.com
+# http://clintsskips.com
+http://clintsskips.com
